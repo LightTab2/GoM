@@ -1,20 +1,7 @@
-Copyright (c) 2017 LightTab2 azorro12@gmail.com
+We wish we could name it UNLICENSE, however part of this software is made from assets with its own license. This project's license:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+The software, its code and every piece of it made by the Github's (and other than Blizzard Entertainment) contributors has absolutely no copyright. You are permited to use it however you want, don't even bother to ask for the permission to do so.
 
-The included Blizzard Entertainment's content is not present. Validation of this condition revokes privileges to personal usage only (according to Blizzard Entertainment's licensing).
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Everything located in the directory \Content\BlizzardContent is owned by Blizzard Entertainment on license, which copyright notice you can read in \Content\BlizzardContent\notice.txt, and terms described at http://us.blizzard.com/en-sg/company/about/legal-faq.html. Briefly: you are not allowed to modify that content in any way, nor make other than personal use of it and it's possible we misunderstood their legal faq, therefore you could have none rights to this content in fact. If you are about to publish software with Blizzard Entertainment's assets, you have to follow all the terms on which you are allowed to use them, including personal usage only and perserving their copyright notice.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
